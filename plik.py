@@ -1,2 +1,2 @@
 print("cześć jestem Kajetanv2")
-Print("tu przedstawi się kolega")
+Print("A ja jestem Kajetan")
