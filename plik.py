@@ -1,3 +1,3 @@
 print ("Cześć jestem kajetan")
-print("Tu przedstawia się kolega")
+print("Ajajestem Kajetanv2")
 
